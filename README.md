@@ -26,7 +26,7 @@
   <a href="https://tagadearpit.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel&labelColor=1a1a1a" alt="Portfolio" />
   </a>
-  <a href="https://monika-ai-0jpf.onrender.com" target="_blank">
+  <a href="https://monika-ai.duckdns.org" target="_blank">
     <img src="https://img.shields.io/badge/Monika--AI-Demo-ff69b4?style=for-the-badge&logo=robotframework&labelColor=8800ff" alt="MonikaAI" />
   </a>
   <a href="https://neosis-static-site.onrender.com" target="_blank">
@@ -126,7 +126,7 @@ Welcome to my digital playground, where every line of code tells a story:
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/AI%20Powered-FF6F61?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <a href="https://monika-ai-0jpf.onrender.com">🔗 Live Demo →</a>
+      <a href="https://monika-ai.duckdns.org">🔗 Live Demo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/tagadearpit/Neosis">Neosis</a></h3>
@@ -277,7 +277,7 @@ Welcome to my digital playground, where every line of code tells a story:
   <a href="https://github.com/tagadearpit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://monika-ai-0jpf.onrender.com" target="_blank">
+  <a href="https://monika-ai.duckdns.org" target="_blank">
     <img src="https://img.shields.io/badge/Monika--AI-Demo-ff69b4?style=for-the-badge&logo=robotframework&labelColor=8800ff" alt="Monika-AI" />
   </a>
   <a href="https://neosis-static-site.onrender.com" target="_blank">
